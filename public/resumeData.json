@@ -1,40 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Pavan Karnati",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "image": "Portfolio.JPEG",
+    "bio": "My name is Pavan, I'm a Full Stack Developer. Currently I'm working at NCR Corporation as a Software Engineer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "pavan.kv97@gmail.com",
     "phone": "+44 12 345 6789",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "517 Main St NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30324"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1mChGexYireL5L3aH9Pw1iC6na4wPT0lT/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/venkatapavankarnati/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/venkatapavankarnati",
         "className": "fa fa-github"
       }
     ]

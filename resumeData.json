@@ -1,40 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Venkata Pavan Karnati",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "image": "Portfolio.JPEG",
+    "bio": "My name is Pavan, I'm a Full Stack Developer. Currently I'm working at NCR Corporation as a Software Engineer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "pavan.kv97@gmail.com",
     "phone": "+44 12 345 6789",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "517 Main St NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30324"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1mChGexYireL5L3aH9Pw1iC6na4wPT0lT/view?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/venkatapavankarnati/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/venkatapavankarnati",
         "className": "fa fa-github"
       }
     ]
@@ -43,24 +33,29 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Georgia State University",
+        "degree": "Masters in Compute Science",
+        "graduated": "May 2020"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "NCR Corporation",
+        "title": "Software Engineer",
+        "years": "August 2020 - Present",
+        "description": ""
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "KPMG LLP",
+        "title": "Software Development Internship",
+        "years": "May 2019 - August 2019",
+        "description": "Designed and implemented a dashboard to show client specific data in the application using Angular, C#, MS-SQL and Wijmo.I have also worked on the front-end development of the application using Angular, Typescript.I have been involved in the build and release process of the application using Microsoft Azure Devops."
+      },
+      {
+        "company": "Georgia State University",
+        "title": "Graduate Research Assistant",
+        "years": "Aug 2018 - May 2020",
+        "description": "Assisting Professor in developing a live project on CVCL(Collaborative Virtual Lab Environment).Responsible for end to end design and enhancement of open source on Unbuntu server and maintaining data in MySQL Database.Technologies Used: HTML, CSS, JSP, Java Script and MySQL."
       }
     ],
     "skills": [
@@ -69,24 +64,36 @@
         "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Java",
+        "level": "80%"
       },
       {
-        "name": "Git",
+        "name": "HTML",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Javascript",
+        "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Typescript",
+        "level": "40%"
+      },
+      {
+        "name": "ReactNative",
+        "level": "60%"
+      },
+      {
+        "name": "Github Actions",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Powershell Scripting",
+        "level": "30%"
       }
     ]
   },
